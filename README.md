@@ -4,5 +4,4 @@ This project is a proxy service that interacts with the Polygon.io API to retrie
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
+docker-compose up -d --build
